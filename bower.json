@@ -1,0 +1,21 @@
+{
+  "name": "music_collector",
+  "authors": [
+    "Amit Kumar Singh <aksinghdce@gmail.com>"
+  ],
+  "description": "feed youtube links and playlists to get music files downloaded into a specific folder",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.7"
+  }
+}
